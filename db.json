@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Sebastian",
+      "last_name": "Eschweiler",
+      "email": "sebastian@codingthesmartway.com",
+      "website": "codewithkiran.com",
+      "company": "codewithkiran"
+    },
+    {
+      "id": 2,
+      "first_name": "Steve",
+      "last_name": "Palmer",
+      "email": "steve@codingthesmartway.com",
+      "website": "codewithkiran.com",
+      "company": "codewithkirana"
+    },
+    {
+      "id": 3,
+      "first_name": "Ann ",
+      "last_name": "Smith",
+      "email": "ann@codingthesmartway.com",
+      "website": "codewithkiran.com",
+      "company": "codewithkiran"
+    },
+    {
+      "first_name": "Kiran",
+      "last_name": "Kamble",
+      "email": "kirankamble4595@gmail.com",
+      "website": "codewithkiran.com",
+      "company": "codewithkiran",
+      "id": 4
+    },
+    {
+      "first_name": "Akshay",
+      "last_name": "Kale",
+      "email": "akshay.v.kale@gmail.com",
+      "website": "codewithkiran.com",
+      "company": "codewithkiran",
+      "id": 5
+    },
+    {
+      "first_name": "mokala",
+      "last_name": "moklabola",
+      "email": "sokali@gmail.com",
+      "website": "pokala.com",
+      "company": "codewithkirana",
+      "id": 6
+    }
+  ]
+}
